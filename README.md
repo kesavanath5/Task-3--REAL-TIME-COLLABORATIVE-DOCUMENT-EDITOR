@@ -7,7 +7,7 @@ Intern ID: CT04DG3221
 Duration: 4 Weeks 
 Mentor: Neela Santhosh Kumar
 
-Here is a 500-word explanation of the working process of the **Real-Time Collaborative Document Editor** built using **React.js**, **Node.js**, **Socket.IO**, and **MongoDB**:
+ **Real-Time Collaborative Document Editor** built using **React.js**, **Node.js**, **Socket.IO**, and **MongoDB**:
 
 ---
 
